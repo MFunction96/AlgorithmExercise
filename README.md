@@ -1,0 +1,2 @@
+# AlgorithmExercise
+Personal algorithm exercise.
