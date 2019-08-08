@@ -1,7 +1,7 @@
 /*
     UVa10082 - WERTYU
     https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=1023
-    Created at 08/06/2019.
+    Created at 08/06/2019 by MFunction.
  */
 
 #include <cstdio>
