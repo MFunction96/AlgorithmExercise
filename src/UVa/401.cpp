@@ -23,21 +23,14 @@ int main()
     //freopen("401.in", "r", stdin);  
     while (scanf("%s", str) == 1)
     {
-        printf("%s -- is ", str);
         const auto len = strlen(str);
         auto flag = 3;
-        for (auto i = 0;i < len && flag;i++)
+        for (auto i = 0;i < (len + 1 >> 1) && flag;i++)
         {
-            if (str[i] != str[len - 1 - i])
-            {
-                flag &= 2;
-                if (str[i] != revchar(str[len - 1 - i]))
-                {
-                    flag &= 1;
-                }
-            }
+            if (str[i] != str[len - 1 - i]) flag &= 2;
+            if (str[i] != revchar(str[len - 1 - i])) flag &= 1;
         }
-        printf("%s", msg[flag]);
+        printf("%s -- is %s", str, msg[flag]);
     }
     //freopen("CON", "r", stdin);
     return 0;
