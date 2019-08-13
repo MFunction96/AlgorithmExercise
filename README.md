@@ -34,7 +34,7 @@ This section will list the Accepted question IDs, separeted by OJ, sorted by Acc
 
 The question ID which the question is solved by more efficient solution than guideline, whether optimized for space complexity(S) or time complexity(T), or both(ST), will mark "(S)", "(T)" or "(ST)" following the ID.
 
-For example, **340(O).**
+For example, **340(ST).**
 
 ### UVa
 
