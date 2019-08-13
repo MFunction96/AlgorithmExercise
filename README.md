@@ -27,3 +27,15 @@ I would participate in CodeForces or BestCoder contest randomly.
 - [UVa](https://uva.onlinejudge.org/)
 - [ICPC Live Archive](https://icpcarchive.ecs.baylor.edu/index.php)
 - [Virtual Judge](https://vjudge.net/user/MFunction)
+
+## Accepted List
+
+This section will list the Accepted question IDs, separeted by OJ, sorted by Accepted time.
+
+The question ID which the question is solved by more efficient solution than guideline, whether optimized for space complexity(S) or time complexity(T), or both(ST), will mark "(S)", "(T)" or "(ST)" following the ID.
+
+For example, **340(O).**
+
+### UVa
+
+[10082](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=1023) [272](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=208) [340(ST)](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=5&page=show_problem&problem=276)
