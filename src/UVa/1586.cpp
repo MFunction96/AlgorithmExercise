@@ -5,7 +5,10 @@
  */
 
 #include <cstdio>
+#include <cstring>
 #include <cctype>
+
+const auto MAXN = 100 + 10;
 
 double cal(char atom, int cnt)
 {
@@ -26,22 +29,25 @@ int main()
         getchar();
         while (n--)
         {
-            char c = 0, lc = 0;
+            auto str = new char[MAXN];
+            scanf("%s", str);
+            const auto len = strlen(str);
             auto cnt = 0;
-            auto ans = 0.0;
-            while (c = getchar(), c != '\n' && c != EOF)            
+            double ans = 0.0;
+            char c = 0;
+            for (auto i = 0;i < len;++i)            
             {
-                if (isalpha(c))
+                if (isalpha(str[i]))
                 {
-                    
-                    ans += cal(lc, cnt);
-                    lc = c;
+                    ans += cal(c, cnt);
+                    c = str[i];
                     cnt = 0;
                 }
-                else cnt = cnt * 10 + c - '0';
+                else cnt = cnt * 10 + str[i] - '0';
             }
-            ans += cal(lc, cnt);
+            ans += cal(c, cnt);
             printf("%.3f\n", ans);
+            delete str;
         }
     }
     //freopen("CON", "r", stdin);
