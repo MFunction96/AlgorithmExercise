@@ -1,5 +1,5 @@
 /*
-    UVa455 - Digit Counting
+    UVa455 - Periodic Strings
     https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=396
     Created at 12/25/2019 by MFunction.
  */
