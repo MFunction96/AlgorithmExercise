@@ -19,7 +19,9 @@ I would participate in CodeForces or BestCoder contest randomly.
 
 **The ones on ICPC Live Archive will be sorted to UVa folder.**
 
-## Online Judge
+## Online Judge Account
+
+There are plenty of non-list Accepted question logged on the following personal OJ accounts. I will trim them soon.
 
 - [BestCoder](http://bestcoder.hdu.edu.cn/rating.php?user=MFunction)
 - [CodeForces](https://codeforces.com/profile/MFunction)
@@ -34,7 +36,7 @@ This section will list the Accepted question IDs, separeted by OJ, sorted by Acc
 
 The question ID which the question is solved by more efficient solution than guideline, whether optimized for space complexity(S) or time complexity(T), or both(ST), will mark "(S)", "(T)" or "(ST)" following the ID.
 
-For example, **340(ST).**
+For example, the meaning of *340(ST)* is that the code in the respority is optimized on space complexity and time complexity. It's more efficient than the sample on the Liu's guideline. *(Page 51)*
 
 ### UVa
 
