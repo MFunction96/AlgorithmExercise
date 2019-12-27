@@ -49,8 +49,8 @@ int main()
                 auto tmp = number[i][j] & 255;
                 if (tmp) 
                 {
-                    if (tmp == 1) printf("  %d.", tmp);
-                    else printf("\n  %d.", tmp);
+                    if (tmp == 1) printf("%3d.", tmp);
+                    else printf("\n%3d.", tmp);
                 }
                 putchar(puzzle[i][j]);
             }
@@ -65,8 +65,8 @@ int main()
                 auto tmp = number[i][j] >> 8;
                 if (tmp) 
                 {
-                    if (tmp == 1) printf("  %d.", tmp);
-                    else printf("\n  %d.", tmp);
+                    if (tmp == 1) printf("%3d.", tmp);
+                    else printf("\n%3d.", tmp);
                     for (auto k = i; k < r; ++k)
                     {
                         if (puzzle[k][j] == '*') break;
