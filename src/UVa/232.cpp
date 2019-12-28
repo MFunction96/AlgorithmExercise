@@ -17,6 +17,7 @@ int main()
 {
 #ifdef LOCAL
     freopen("232.in", "r", stdin);
+    freopen("232.out", "w", stdout);
 #endif
     int r, c, cnt = 0;
     while (scanf("%d", &r), r)
@@ -40,6 +41,7 @@ int main()
                 if (tmp ^ number[i][j]) ++mark;
             }
         }
+        auto flag = false;
         printf("Across\n");
         for (auto i = 0; i < r; ++i)
         {
@@ -49,13 +51,14 @@ int main()
                 auto tmp = number[i][j] & 255;
                 if (tmp) 
                 {
+                    flag = true;
                     if (tmp == 1) printf("%3d.", tmp);
                     else printf("\n%3d.", tmp);
                 }
                 putchar(puzzle[i][j]);
             }
         }
-        putchar('\n');
+        if (flag) putchar('\n');
         printf("Down\n");
         for (auto i = 0; i < r; ++i)
         {
@@ -75,10 +78,11 @@ int main()
                 }
             }
         }
-        putchar('\n');
+        if (flag) putchar('\n');
     }
 #ifdef LOCAL
     freopen("CON", "r", stdin);
+    freopen("CON", "w", stdout);
 #endif
     return 0;
 }
