@@ -26,9 +26,9 @@ There are plenty of non-list Accepted question logged on the following personal 
 - [BestCoder](http://bestcoder.hdu.edu.cn/rating.php?user=MFunction)
 - [CodeForces](https://codeforces.com/profile/MFunction)
 - [HDU](http://acm.hdu.edu.cn/userstatus.php?user=MFunction)
+- [ICPC Live Archive](https://icpcarchive.ecs.baylor.edu/index.php)
 - [POJ](http://poj.org/userstatus?user_id=MFunction)
 - [UVa](https://uva.onlinejudge.org/)
-- [ICPC Live Archive](https://icpcarchive.ecs.baylor.edu/index.php)
 - [Virtual Judge](https://vjudge.net/user/MFunction)
 
 ## Accepted List
@@ -41,7 +41,7 @@ For example, the meaning of *340(ST)* is that the code in the respority is optim
 
 ### HDU
 
-[1000](https://github.com/MFunction96/AlgorithmExercise/blob/master/src/HDU/1000.cpp)
+[1000](https://github.com/MFunction96/AlgorithmExercise/blob/master/src/HDU/1000.cpp) [1001](https://github.com/MFunction96/AlgorithmExercise/blob/master/src/HDU/1001.cpp)
 
 ### UVa
 
