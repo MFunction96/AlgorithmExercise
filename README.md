@@ -41,7 +41,7 @@ For example, the meaning of *340(ST)* is that the code in the respority is optim
 
 ### HDU
 
-[1000](https://github.com/MFunction96/AlgorithmExercise/blob/master/src/HDU/1000.cpp) [1001](https://github.com/MFunction96/AlgorithmExercise/blob/master/src/HDU/1001.cpp) [1002](https://github.com/MFunction96/AlgorithmExercise/blob/master/src/HDU/1002.cpp) [1004](https://github.com/MFunction96/AlgorithmExercise/blob/master/src/HDU/1004.cpp)
+[1000](https://github.com/MFunction96/AlgorithmExercise/blob/master/src/HDU/1000.cpp) [1001](https://github.com/MFunction96/AlgorithmExercise/blob/master/src/HDU/1001.cpp) [1002](https://github.com/MFunction96/AlgorithmExercise/blob/master/src/HDU/1002.cpp) [1004](https://github.com/MFunction96/AlgorithmExercise/blob/master/src/HDU/1004.cpp) [1010](https://github.com/MFunction96/AlgorithmExercise/blob/master/src/HDU/1010.cpp) [1020](https://github.com/MFunction96/AlgorithmExercise/blob/master/src/HDU/1020.cpp)
 
 ### UVa
 
