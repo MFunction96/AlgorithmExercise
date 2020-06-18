@@ -54,7 +54,7 @@ For example, the meaning of *340(ST)* is that the code in the respority is optim
 
 ### HDU
 
-[1000][Code-HDU1000] [1001][Code-HDU1001] [1002][Code-HDU1002] [1004][Code-HDU1004] [1010][Code-HDU1010] [1020][Code-HDU1020] [1027][Code-HDU1027] [1035][Code-HDU1035] [1037][Code-HDU1037] [1089][Code-HDU1089] [1090][Code-HDU1090] [1091][Code-HDU1091] [1092][Code-HDU1092] [1093][Code-HDU1093] [1094][Code-HDU1094] [1095][Code-HDU1095] [1096][Code-HDU1096]
+[1000][Code-HDU1000] [1001][Code-HDU1001] [1002][Code-HDU1002] [1004][Code-HDU1004] [1010][Code-HDU1010] [1020][Code-HDU1020] [1027][Code-HDU1027] [1035][Code-HDU1035] [1037][Code-HDU1037] [1089][Code-HDU1089] [1090][Code-HDU1090] [1091][Code-HDU1091] [1092][Code-HDU1092] [1093][Code-HDU1093] [1094][Code-HDU1094] [1095][Code-HDU1095] [1096][Code-HDU1096] [1012][Code-HDU1012]
 
 [Code-HDU1000]: https://github.com/MFunction96/AlgorithmExercise/blob/master/src/HDU/1000.cpp
 [Code-HDU1001]: https://github.com/MFunction96/AlgorithmExercise/blob/master/src/HDU/1001.cpp
@@ -73,6 +73,7 @@ For example, the meaning of *340(ST)* is that the code in the respority is optim
 [Code-HDU1094]: https://github.com/MFunction96/AlgorithmExercise/blob/master/src/HDU/1094.cpp
 [Code-HDU1095]: https://github.com/MFunction96/AlgorithmExercise/blob/master/src/HDU/1095.cpp
 [Code-HDU1096]: https://github.com/MFunction96/AlgorithmExercise/blob/master/src/HDU/1096.cpp
+[Code-HDU1012]: https://github.com/MFunction96/AlgorithmExercise/blob/master/src/HDU/1012.cpp
 
 ### UVa
 
