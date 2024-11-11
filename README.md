@@ -1,7 +1,6 @@
 # AlgorithmExercise
 
 [![GitHub License](https://img.shields.io/github/license/MFunction96/AlgorithmExercise)](https://github.com/MFunction96/AlgorithmExercise/blob/master/LICENSE)
-[![License: AGPL v3][icon-AGPL v3]][license-AGPL v3]
 [![License: Anti 996][icon-Anti 996]][license-Anti 996]
 
 [icon-Anti 996]: https://img.shields.io/badge/License-Anti%20996-black.svg
@@ -76,7 +75,7 @@ For example, the meaning of *340(ST)* is that the code in the respority is optim
 
 ### UVa
 
-[10082][Code-UVa10082] [272][Code-UVa272] [401][Code-UVa401] [340(ST)][Code-UVa340] [1583][Code-UVa1583] [1584][Code-UVa1584] [1585][Code-UVa1585] [1586][Code-UVa1586] [1225][Code-UVa1225] [455][Code-UVa455] [227][Code-UVa227] [232][Code-UVa232] [1368][Code-UVa1368] [11995][Code-UVa11995]
+[10082][Code-UVa10082] [272][Code-UVa272] [401][Code-UVa401] [340(ST)][Code-UVa340] [1583][Code-UVa1583] [1584][Code-UVa1584] [1585][Code-UVa1585] [1586][Code-UVa1586] [1225][Code-UVa1225] [455][Code-UVa455] [227][Code-UVa227] [232][Code-UVa232] [1368][Code-UVa1368] [11995][Code-UVa11995] [11991][Code-UVa11991]
 
 [Code-UVa10082]: https://github.com/MFunction96/AlgorithmExercise/blob/master/src/UVa/10082.cpp
 [Code-UVa272]: https://github.com/MFunction96/AlgorithmExercise/blob/master/src/UVa/272.cpp
@@ -92,3 +91,4 @@ For example, the meaning of *340(ST)* is that the code in the respority is optim
 [Code-UVa232]: https://github.com/MFunction96/AlgorithmExercise/blob/master/src/UVa/232.cpp
 [Code-UVa1368]: https://github.com/MFunction96/AlgorithmExercise/blob/master/src/UVa/1368.cpp
 [Code-UVa11995]: https://github.com/MFunction96/AlgorithmExercise/blob/master/src/UVa/11995.cpp
+[Code-UVa11991]: https://github.com/MFunction96/AlgorithmExercise/blob/master/src/UVa/11991.cpp
