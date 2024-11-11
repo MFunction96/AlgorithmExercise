@@ -1,11 +1,10 @@
 # AlgorithmExercise
 
-[![License: GPL v3][icon-GPL v3]][license-GPL v3]
+[![GitHub License](https://img.shields.io/github/license/MFunction96/AlgorithmExercise)](https://github.com/MFunction96/AlgorithmExercise/blob/master/LICENSE)
+[![License: AGPL v3][icon-AGPL v3]][license-AGPL v3]
 [![License: Anti 996][icon-Anti 996]][license-Anti 996]
 
-[icon-GPL v3]: https://img.shields.io/badge/License-GPLv3-blue.svg
 [icon-Anti 996]: https://img.shields.io/badge/License-Anti%20996-black.svg
-[license-GPL v3]: https://github.com/MFunction96/AlgorithmExercise/blob/master/LICENSE
 [license-Anti 996]: https://github.com/996icu/996.ICU/blob/master/LICENSE
 
 This repository is my own source code for personal algorithm exercise, which had accepted by the Online Judge(OJ). I will update this repository continually and randomly.
