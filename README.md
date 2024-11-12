@@ -75,7 +75,7 @@ For example, the meaning of *340(ST)* is that the code in the respority is optim
 
 ### UVa
 
-[10082][Code-UVa10082] [272][Code-UVa272] [401][Code-UVa401] [340(ST)][Code-UVa340] [1583][Code-UVa1583] [1584][Code-UVa1584] [1585][Code-UVa1585] [1586][Code-UVa1586] [1225][Code-UVa1225] [455][Code-UVa455] [227][Code-UVa227] [232][Code-UVa232] [1368][Code-UVa1368] [11995][Code-UVa11995] [11991][Code-UVa11991]
+[10082][Code-UVa10082] [272][Code-UVa272] [401][Code-UVa401] [340(ST)][Code-UVa340] [1583][Code-UVa1583] [1584][Code-UVa1584] [1585][Code-UVa1585] [1586][Code-UVa1586] [1225][Code-UVa1225] [455][Code-UVa455] [227][Code-UVa227] [232][Code-UVa232] [1368][Code-UVa1368] [11995][Code-UVa11995] [11991][Code-UVa11991] [1203][Code-UVa1203] [1329][Code-UVa1329]
 
 [Code-UVa10082]: https://github.com/MFunction96/AlgorithmExercise/blob/master/src/UVa/10082.cpp
 [Code-UVa272]: https://github.com/MFunction96/AlgorithmExercise/blob/master/src/UVa/272.cpp
@@ -92,3 +92,5 @@ For example, the meaning of *340(ST)* is that the code in the respority is optim
 [Code-UVa1368]: https://github.com/MFunction96/AlgorithmExercise/blob/master/src/UVa/1368.cpp
 [Code-UVa11995]: https://github.com/MFunction96/AlgorithmExercise/blob/master/src/UVa/11995.cpp
 [Code-UVa11991]: https://github.com/MFunction96/AlgorithmExercise/blob/master/src/UVa/11991.cpp
+[Code-UVa1203]: https://github.com/MFunction96/AlgorithmExercise/blob/master/src/UVa/1203.cpp
+[Code-UVa1329]: https://github.com/MFunction96/AlgorithmExercise/blob/master/src/UVa/1329.cpp
