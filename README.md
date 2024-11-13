@@ -55,6 +55,7 @@ For example, the meaning of *340(ST)* is that the code in the respority is optim
 [1000][Code-HDU1000] [1001][Code-HDU1001] [1002][Code-HDU1002] [1004][Code-HDU1004] [1010][Code-HDU1010] [1020][Code-HDU1020] [1027][Code-HDU1027] [1035][Code-HDU1035] [1037][Code-HDU1037] [1089][Code-HDU1089] [1090][Code-HDU1090] [1091][Code-HDU1091] [1092][Code-HDU1092] [1093][Code-HDU1093] [1094][Code-HDU1094] [1095][Code-HDU1095] [1096][Code-HDU1096] [1012][Code-HDU1012]
 
 [Code-HDU1000]: https://github.com/MFunction96/AlgorithmExercise/blob/master/src/HDU/1000.cpp
+[Code-HDU1000]: https://github.com/MFunction96/AlgorithmExercise/blob/master/src/HDU/1000.cpp
 [Code-HDU1001]: https://github.com/MFunction96/AlgorithmExercise/blob/master/src/HDU/1001.cpp
 [Code-HDU1002]: https://github.com/MFunction96/AlgorithmExercise/blob/master/src/HDU/1002.cpp
 [Code-HDU1004]: https://github.com/MFunction96/AlgorithmExercise/blob/master/src/HDU/1004.cpp
@@ -75,7 +76,7 @@ For example, the meaning of *340(ST)* is that the code in the respority is optim
 
 ### UVa
 
-[10082][Code-UVa10082] [272][Code-UVa272] [401][Code-UVa401] [340(ST)][Code-UVa340] [1583][Code-UVa1583] [1584][Code-UVa1584] [1585][Code-UVa1585] [1586][Code-UVa1586] [1225][Code-UVa1225] [455][Code-UVa455] [227][Code-UVa227] [232][Code-UVa232] [1368][Code-UVa1368] [11995][Code-UVa11995] [11991][Code-UVa11991] [1203][Code-UVa1203] [1329][Code-UVa1329]
+[10082][Code-UVa10082] [272][Code-UVa272] [401][Code-UVa401] [340(ST)][Code-UVa340] [1583][Code-UVa1583] [1584][Code-UVa1584] [1585][Code-UVa1585] [1586][Code-UVa1586] [1225][Code-UVa1225] [455][Code-UVa455] [227][Code-UVa227] [232][Code-UVa232] [1368][Code-UVa1368] [11995][Code-UVa11995] [11991][Code-UVa11991] [1203][Code-UVa1203] [1329][Code-UVa1329] [11235][Code-UVa11235]
 
 [Code-UVa10082]: https://github.com/MFunction96/AlgorithmExercise/blob/master/src/UVa/10082.cpp
 [Code-UVa272]: https://github.com/MFunction96/AlgorithmExercise/blob/master/src/UVa/272.cpp
@@ -94,3 +95,4 @@ For example, the meaning of *340(ST)* is that the code in the respority is optim
 [Code-UVa11991]: https://github.com/MFunction96/AlgorithmExercise/blob/master/src/UVa/11991.cpp
 [Code-UVa1203]: https://github.com/MFunction96/AlgorithmExercise/blob/master/src/UVa/1203.cpp
 [Code-UVa1329]: https://github.com/MFunction96/AlgorithmExercise/blob/master/src/UVa/1329.cpp
+[Code-UVa11235]: https://github.com/MFunction96/AlgorithmExercise/blob/master/src/UVa/11235.cpp
